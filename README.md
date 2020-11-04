@@ -2,7 +2,7 @@
 My first OpenGL and C++ project. 
 
 ## How to compile
-Run this in terminal (should work on mac)
+Run this in terminal (should work on MacOSX, not sure about others)
 
 `clang++ -std=c++17 main.cpp -o bouncer -framework GLUT -framework OpenGL`
 
